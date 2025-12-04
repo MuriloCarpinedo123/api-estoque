@@ -69,3 +69,4 @@ public class CategoriaController {
         return ResponseEntity.noContent().build(); // Retorna código 204 (No Content)
     }
 }
+
